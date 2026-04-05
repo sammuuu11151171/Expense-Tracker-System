@@ -1,3 +1,3 @@
-# Welcome to Expense Tracker System
+# Expense Tracker System
 
-TODO: Document your project here
+
